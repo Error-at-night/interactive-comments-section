@@ -36,10 +36,6 @@ Users should be able to:
 - Adding a new comment or reply uses the `currentUser` object from within the `data.json` file.
 - You can only edit or delete your own comments and replies.
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
 ### Built with
 
 - Tailwindcss
